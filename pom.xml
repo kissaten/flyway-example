@@ -9,6 +9,8 @@
 	<artifactId>spring-boot-sample-flyway</artifactId>
 	<name>Spring Boot Flyway Sample</name>
 	<description>Spring Boot Flyway Sample</description>
+        <version>1.0.0</version>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
